@@ -1,0 +1,7 @@
+name:
+  myname: dwarak
+  age: 25
+greeting:
+  message: "hello world from properties-demo"
+app:
+  description: "hello world, welcome"
