@@ -1,3 +1,7 @@
 name:
   myname: dwarak
   age: 25
+greeting:
+  message: "hello world"
+app:
+  description: "hello world, welcome"
